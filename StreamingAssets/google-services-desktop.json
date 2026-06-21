@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820333440714",
+    "project_id": "kideo-land",
+    "storage_bucket": "kideo-land.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820333440714:android:615427ffa1d332b8f44e33",
+        "android_client_info": {
+          "package_name": "com.kideo.tech.kideo.land.all_grades.he"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820333440714-j0aus05od06qbu9127ik0838a8hcqiel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5xTI23qKsVMpxDuzx6_TfeikJxXfuW2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820333440714-j0aus05od06qbu9127ik0838a8hcqiel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
