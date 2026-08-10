@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "820333440714",
-    "project_id": "kideo-land",
-    "storage_bucket": "kideo-land.appspot.com"
+    "project_number": "743437126772",
+    "project_id": "voca-tooki---all-grades",
+    "storage_bucket": "voca-tooki---all-grades.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:820333440714:android:615427ffa1d332b8f44e33",
+        "mobilesdk_app_id": "1:743437126772:android:dff5977f929d31f7751521",
         "android_client_info": {
-          "package_name": "com.kideo.tech.kideo.land.all_grades.he"
+          "package_name": "com.kideo.tech.voca.tooki.all_grades.en"
         }
       },
       "oauth_client": [
         {
-          "client_id": "820333440714-j0aus05od06qbu9127ik0838a8hcqiel.apps.googleusercontent.com",
+          "client_id": "743437126772-c0qmu12b5g4qu59taq49vr7ujfka7u97.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD5xTI23qKsVMpxDuzx6_TfeikJxXfuW2s"
+          "current_key": "AIzaSyClu2MNDgMqGvXFSpknvoQmkoIGEA_Zlzc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "820333440714-j0aus05od06qbu9127ik0838a8hcqiel.apps.googleusercontent.com",
+              "client_id": "743437126772-c0qmu12b5g4qu59taq49vr7ujfka7u97.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
