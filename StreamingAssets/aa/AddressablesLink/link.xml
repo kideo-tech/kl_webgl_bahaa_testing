@@ -38,6 +38,7 @@
     <type fullname="Bird" preserve="all" />
     <type fullname="BlankFieldHelper" preserve="all" />
     <type fullname="Board" preserve="all" />
+    <type fullname="Bots.BotMatchController" preserve="all" />
     <type fullname="Boundry" preserve="all" />
     <type fullname="BubbleHandler" preserve="all" />
     <type fullname="BubbleMotion" preserve="all" />
@@ -97,6 +98,31 @@
     <type fullname="com.kideo.learn.english.AnimationEventController" preserve="all" />
     <type fullname="com.kideo.learn.english.AnimationMapping" preserve="all" />
     <type fullname="com.kideo.learn.english.AreYouSurePanel" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DAudienceItems" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DBackgroundAnchor" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DBuilder" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DBuyBar" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DCameraFocus" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DCharacterRotator" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DCoinsDisplay" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DFaceSliderRow" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DItemCatalog" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DItemCell" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DItemFlyEffect" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DOptionButton" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DPortrait" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DRenderQuality" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DStage" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DStageAmbient" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DStageAtlas" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DTheme" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DThemeButton" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DThemedGraphic" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DThemedLabel" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DThemedRect" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DThemeSwitcher" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DWorldPresenter" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Character3DResolver" preserve="all" />
     <type fullname="com.kideo.learn.english.BaloonsActivityManagement" preserve="all" />
     <type fullname="com.kideo.learn.english.BeeCarefulActivityManagement" preserve="all" />
     <type fullname="com.kideo.learn.english.BeeCarefulEnemy" preserve="all" />
@@ -301,6 +327,7 @@
     <type fullname="com.kideo.learn.english.WordTreeActivityManagement" preserve="all" />
     <type fullname="com.tech.kideo.multiplayer.head2head.RoomCodeController" preserve="all" />
     <type fullname="CompetitionResultsController" preserve="all" />
+    <type fullname="Configs.BotMatchSettings" preserve="all" />
     <type fullname="Configs.BrushSettings" preserve="all" />
     <type fullname="Configs.GameSettings" preserve="all" />
     <type fullname="ConfirmationPopup" preserve="all" />
@@ -328,6 +355,10 @@
     <type fullname="DocumentSubtask" preserve="all" />
     <type fullname="DragDrop" preserve="all" />
     <type fullname="DragonflyAnimation" preserve="all" />
+    <type fullname="DrawinAssetHolder" preserve="all" />
+    <type fullname="Drawing.DrawingManager" preserve="all" />
+    <type fullname="Drawing.Fusion.DrawingNetworkHandler" preserve="all" />
+    <type fullname="Drawing.InputHandler" preserve="all" />
     <type fullname="DrawinHostBridgeSO" preserve="all" />
     <type fullname="DynamicGrid" preserve="all" />
     <type fullname="DynamicSplitViewText" preserve="all" />
@@ -463,7 +494,12 @@
     <type fullname="LifeBarScript" preserve="all" />
     <type fullname="LoadingPanel" preserve="all" />
     <type fullname="LocalizedText" preserve="all" />
+    <type fullname="MainMenuLeaderboardFetcher" preserve="all" />
     <type fullname="MainThreadDispatcher" preserve="all" />
+    <type fullname="Managers.GameUIController" preserve="all" />
+    <type fullname="Managers.LobbyManager" preserve="all" />
+    <type fullname="Managers.MainManager" preserve="all" />
+    <type fullname="Managers.MainMenuManager" preserve="all" />
     <type fullname="ManageSpriteScale" preserve="all" />
     <type fullname="MapPool" preserve="all" />
     <type fullname="MenuPanel" preserve="all" />
@@ -476,6 +512,14 @@
     <type fullname="MultipleChoicesTask" preserve="all" />
     <type fullname="MultipleChoiceSubtask" preserve="all" />
     <type fullname="NativeLanguageModeHandler" preserve="all" />
+    <type fullname="Network.ConnectionWatcher" preserve="all" />
+    <type fullname="Network.GameMainManager" preserve="all" />
+    <type fullname="Network.GameNetworkHandler" preserve="all" />
+    <type fullname="Network.GameStateManager" preserve="all" />
+    <type fullname="Network.MessagesNetworkHandler" preserve="all" />
+    <type fullname="Network.NetworkConnector" preserve="all" />
+    <type fullname="Network.NetworkPlayerManager" preserve="all" />
+    <type fullname="Network.StickerNetworkHandler" preserve="all" />
     <type fullname="NewClickableKeyboard" preserve="all" />
     <type fullname="NewMemoryAreaHandler" preserve="all" />
     <type fullname="NotificationIndicator" preserve="all" />
@@ -489,6 +533,8 @@
     <type fullname="PathCreation.Examples.PathPlacer" preserve="all" />
     <type fullname="PictureInfo" preserve="all" />
     <type fullname="PipeJunctionObject" preserve="all" />
+    <type fullname="Player.NewPlayerData" preserve="all" />
+    <type fullname="Player.NewPlayerSpawner" preserve="all" />
     <type fullname="PlayerCardController" preserve="all" />
     <type fullname="PlayerController" preserve="all" />
     <type fullname="PlayerInfoPanel" preserve="all" />
@@ -615,6 +661,34 @@
     <type fullname="TurtleIslandWorldHandler" preserve="all" />
     <type fullname="TutorialLayer" preserve="all" />
     <type fullname="TwoColumnsUIFitter" preserve="all" />
+    <type fullname="UI.CorrectGuessBanner" preserve="all" />
+    <type fullname="UI.DrawingUI" preserve="all" />
+    <type fullname="UI.EndGameUI" preserve="all" />
+    <type fullname="UI.Extra.FullScreenShadow" preserve="all" />
+    <type fullname="UI.Extra.HandleInformativePopup" preserve="all" />
+    <type fullname="UI.Extra.LeaveConfirmationPopup" preserve="all" />
+    <type fullname="UI.Extra.LoadingCircleController" preserve="all" />
+    <type fullname="UI.Extra.PlayerAvatarUI" preserve="all" />
+    <type fullname="UI.Extra.PopUpController" preserve="all" />
+    <type fullname="UI.Extra.ReportPanelUI" preserve="all" />
+    <type fullname="UI.Extra.SpriteRigFitter" preserve="all" />
+    <type fullname="UI.Extra.StickerDisplayManager" preserve="all" />
+    <type fullname="UI.Extra.StickerUI" preserve="all" />
+    <type fullname="UI.GuessingUI" preserve="all" />
+    <type fullname="UI.JoinRoomPanel" preserve="all" />
+    <type fullname="UI.Keyboard.KbLayout" preserve="all" />
+    <type fullname="UI.Keyboard.KbStyle" preserve="all" />
+    <type fullname="UI.Keyboard.KeyboardKey" preserve="all" />
+    <type fullname="UI.Keyboard.KeyboardModule" preserve="all" />
+    <type fullname="UI.LobbyUI" preserve="all" />
+    <type fullname="UI.MainMenuUI" preserve="all" />
+    <type fullname="UI.MessagesUI" preserve="all" />
+    <type fullname="UI.PlacementRewardUI" preserve="all" />
+    <type fullname="UI.RoundEndUI" preserve="all" />
+    <type fullname="UI.ScoresEntryUI" preserve="all" />
+    <type fullname="UI.ScoresUI" preserve="all" />
+    <type fullname="UI.WordGuessDisplay" preserve="all" />
+    <type fullname="UI.WordSelectionUI" preserve="all" />
     <type fullname="UIGameObjFitter" preserve="all" />
     <type fullname="UIHandler" preserve="all" />
     <type fullname="UIRefData" preserve="all" />
@@ -721,6 +795,11 @@
     <type fullname="com.kideo.learn.english.EggsActivityManager/DifficultySettings" preserve="nothing" serialized="true" />
     <type fullname="com.kideo.learn.english.Pipes.PipePathStructure" preserve="nothing" serialized="true" />
     <type fullname="com.kideo.learn.english.Feedback.ResultDef" preserve="nothing" serialized="true" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DCameraFocus/View" preserve="nothing" serialized="true" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DTheme/IconOverride" preserve="nothing" serialized="true" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DTheme/LightingPreset" preserve="nothing" serialized="true" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DTheme/RectSpec" preserve="nothing" serialized="true" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DTheme/RoleSprite" preserve="nothing" serialized="true" />
     <type fullname="com.kideo.learn.english.SubTaskAnswer" preserve="nothing" serialized="true" />
     <type fullname="NamedSound" preserve="nothing" serialized="true" />
     <type fullname="AwardTypeInfo" preserve="nothing" serialized="true" />
@@ -730,16 +809,23 @@
     <type fullname="ItemCostInfo" preserve="nothing" serialized="true" />
     <type fullname="LocalizedSpriteInfo" preserve="nothing" serialized="true" />
     <type fullname="com.kideo.audiobook.AudiobookData" preserve="nothing" serialized="true" />
+    <type fullname="Configs.BotMatchSettings/BotJoinSlot" preserve="nothing" serialized="true" />
+    <type fullname="Configs.BotMatchSettings/DrawerSkill" preserve="nothing" serialized="true" />
+    <type fullname="Configs.BotMatchSettings/GuesserSkill" preserve="nothing" serialized="true" />
+    <type fullname="UI.Keyboard.CustomKeyLabel" preserve="nothing" serialized="true" />
+    <type fullname="UI.Keyboard.CustomKeyPrefabMapping" preserve="nothing" serialized="true" />
+    <type fullname="UI.Keyboard.KbCategoryStyle" preserve="nothing" serialized="true" />
+    <type fullname="UI.Keyboard.KbKeyOverride" preserve="nothing" serialized="true" />
+    <type fullname="UI.Keyboard.KbRowDef" preserve="nothing" serialized="true" />
     <type fullname="ThirdActivityInfo" preserve="nothing" serialized="true" />
-    <type fullname="com.kideo.learn.english.RequireCasedScriptRule" preserve="nothing" serialized="true" />
-    <type fullname="com.kideo.learn.english.RequireEnoughWordsOfLengthRule" preserve="nothing" serialized="true" />
-    <type fullname="com.kideo.learn.english.RequireEnoughWordsRule" preserve="nothing" serialized="true" />
-    <type fullname="com.kideo.learn.english.RequireEveryWordMinLengthRule" preserve="nothing" serialized="true" />
-    <type fullname="com.kideo.learn.english.RequireGlobalSettingRule" preserve="nothing" serialized="true" />
-    <type fullname="com.kideo.learn.english.RequireLevelTypeRule" preserve="nothing" serialized="true" />
-    <type fullname="com.kideo.learn.english.RequireUnderstandableWordsRule" preserve="nothing" serialized="true" />
     <type fullname="ArenaStickerCatalog/StickerEntry" preserve="nothing" serialized="true" />
     <type fullname="SoundRepositroy/NamedSound" preserve="nothing" serialized="true" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DAudienceCategory" preserve="nothing" serialized="true" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DFaceSliderInfo" preserve="nothing" serialized="true" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DItemInfo" preserve="nothing" serialized="true" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DOutfitSlot" preserve="nothing" serialized="true" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DSubcategoryInfo" preserve="nothing" serialized="true" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DTabInfo" preserve="nothing" serialized="true" />
     <type fullname="RacersConfigrations" preserve="nothing" serialized="true" />
     <type fullname="RacersSettings" preserve="nothing" serialized="true" />
     <type fullname="com.kideo.learn.english.Frogger.FroggerGameManager/GameModeInstruction" preserve="nothing" serialized="true" />
@@ -820,6 +906,21 @@
   <assembly fullname="Febucci.TextAnimator.TMP.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Febucci.UI.TextAnimator_TMP" preserve="all" />
   </assembly>
+  <assembly fullname="Fusion.Runtime, Version=2.0.12.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Fusion.NetworkObject" preserve="all" />
+    <type fullname="Fusion.NetworkObjectPrefabData" preserve="all" />
+    <type fullname="Fusion.NetworkRunner" preserve="all" />
+    <type fullname="Fusion.NetworkBool" preserve="nothing" serialized="true" />
+    <type fullname="Fusion.NetworkObjectGuid" preserve="nothing" serialized="true" />
+    <type fullname="Fusion.NetworkString`1[Fusion._256]" preserve="nothing" serialized="true" />
+    <type fullname="Fusion.NetworkString`1[Fusion._32]" preserve="nothing" serialized="true" />
+    <type fullname="Fusion.PlayerRef" preserve="nothing" serialized="true" />
+    <type fullname="Fusion._256" preserve="nothing" serialized="true" />
+    <type fullname="Fusion._32" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="MameshibaGames.Kekos.Models, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="MameshibaGames.Kekos.Models.ShowHour" preserve="all" />
+  </assembly>
   <assembly fullname="Oculus.LipSync, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="OVRLipSyncContext" preserve="all" />
     <type fullname="OVRLipSyncContextTextureFlip" preserve="all" />
@@ -871,6 +972,7 @@
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
     <type fullname="UnityEngine.AddressableAssets.AssetReference" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.AddressableAssets.AssetReferenceGameObject" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceSprite" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Localization, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Localization.Components.LocalizeSpriteEvent" preserve="all" />
@@ -966,6 +1068,7 @@
     <type fullname="UnityEngine.AnimationClip" preserve="all" />
     <type fullname="UnityEngine.Animator" preserve="all" />
     <type fullname="UnityEngine.AnimatorOverrideController" preserve="all" />
+    <type fullname="UnityEngine.Avatar" preserve="all" />
     <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -990,6 +1093,7 @@
     <type fullname="UnityEngine.Rendering.SortingGroup" preserve="all" />
     <type fullname="UnityEngine.RenderSettings" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
     <type fullname="UnityEngine.TextAsset" preserve="all" />
