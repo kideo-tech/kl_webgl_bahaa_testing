@@ -1,5 +1,0 @@
-17:27:35 content build start
-17:31:56 content: OK 11369 locations, 261s
-17:31:56 player build start: Assets/Scenes/SplashScene.unity
-17:36:41 player: Succeeded 00:00:17.0049956 errors=1 size=983MB
-17:36:41 DONE
