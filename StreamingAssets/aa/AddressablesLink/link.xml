@@ -730,6 +730,9 @@
     <type fullname="UserData" preserve="all" />
     <type fullname="VendingMachineLight" preserve="all" />
     <type fullname="VerticalCardCarousel" preserve="all" />
+    <type fullname="voca_tooki_infra.Modules.Tasks.Scripts.ReadingScorePanel" preserve="all" />
+    <type fullname="voca_tooki_infra.Modules.Tasks.Scripts.ReadingWordPopup" preserve="all" />
+    <type fullname="voca_tooki_infra.Modules.Tasks.Scripts.RecordGuideCard" preserve="all" />
     <type fullname="VoiceControl" preserve="all" />
     <type fullname="VoiceRecoginitionResultsView" preserve="all" />
     <type fullname="VoiceRecognition" preserve="all" />
@@ -816,6 +819,9 @@
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DTheme/RectSpec" preserve="nothing" serialized="true" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DTheme/RoleSprite" preserve="nothing" serialized="true" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DTzitzitFollow/Side" preserve="nothing" serialized="true" />
+    <type fullname="voca_tooki_infra.Modules.Tasks.Scripts.ReadingScorePanel/ScoreTile" preserve="nothing" serialized="true" />
+    <type fullname="voca_tooki_infra.Modules.Tasks.Scripts.RecordGuideCard/Look" preserve="nothing" serialized="true" />
+    <type fullname="voca_tooki_infra.Modules.Tasks.Scripts.RecordGuideCard/Texts" preserve="nothing" serialized="true" />
     <type fullname="com.kideo.learn.english.SubTaskAnswer" preserve="nothing" serialized="true" />
     <type fullname="NamedSound" preserve="nothing" serialized="true" />
     <type fullname="AwardTypeInfo" preserve="nothing" serialized="true" />
